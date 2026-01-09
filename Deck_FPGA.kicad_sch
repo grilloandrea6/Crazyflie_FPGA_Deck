@@ -11322,7 +11322,7 @@
     (property "Datasheet" "~" (id 3) (at 416.56 300.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C2047319" (id 4) (at 416.56 300.99 90)
+    (property "LCSC" "C71386" (id 4) (at 416.56 300.99 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d5984257-202f-4356-8d30-67373f12e347))
