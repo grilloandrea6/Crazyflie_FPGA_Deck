@@ -20,7 +20,6 @@ Comment,Designator,Footprint,LCSC
 "100R","R8","Resistor_SMD:R_0402_1005Metric","C25076"
 "100k","R9,R10,R11,R18,R20,R21","Resistor_SMD:R_0402_1005Metric","C2906859"
 "Push Button","SW1","power_ic:SW_EVQ-P3401P","C79163"
-"ProgramB_Pad","TP1","TestPoint:TestPoint_Pad_D1.0mm",""
 "XC7A100T-CSG324","U1","Package_BGA:Xilinx_CSG324","C5181214"
 "TPS65023BRSBT","U2","power_ic:RSB0040B","C138723"
 "S25FL128SAGNFI000","U3","s25:WNG008_SPA","C22445046"
